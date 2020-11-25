@@ -29,12 +29,12 @@ window.onload = function () {
 
     var timeTheme = {
         day: {
-            mapUrl: 'https://api.mapbox.com/styles/v1/anditabinas/ckfmm1qyi2ld219ocj905c5ox/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5kaXRhYmluYXMiLCJhIjoiY2plejI3aHp3MDV3MjMzcW9ydXl2bHNmZiJ9.9h6j7BbkM-PUtK0zaZ1iUg',
+            mapUrl: 'https://api.mapbox.com/styles/v1/gme210soundmap/ckhx3j5j50gi019o2nfacynbw/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZ21lMjEwc291bmRtYXAiLCJhIjoiY2todng5MDBhMGtjaTJxbWxta2JqMm94byJ9.roHTpjZtdnSNtqTqIqJDoA',
             sidebarColor: '#FFFFFF',
             fontColor: '#646978',
         },
         night: {
-            mapUrl: 'https://api.mapbox.com/styles/v1/anditabinas/ckfmquksu008j19pc7o25dv7m/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5kaXRhYmluYXMiLCJhIjoiY2plejI3aHp3MDV3MjMzcW9ydXl2bHNmZiJ9.9h6j7BbkM-PUtK0zaZ1iUg',
+            mapUrl: 'https://api.mapbox.com/styles/v1/gme210soundmap/ckhx3g2nx0gnw19o0zei1saxb/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZ21lMjEwc291bmRtYXAiLCJhIjoiY2todng5MDBhMGtjaTJxbWxta2JqMm94byJ9.roHTpjZtdnSNtqTqIqJDoA',
             sidebarColor: '#464647',
             fontColor: '#FFFFFF',
         }
