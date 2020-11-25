@@ -35,7 +35,7 @@ window.onload = function () {
         },
         night: {
             mapUrl: 'https://api.mapbox.com/styles/v1/anditabinas/ckfmquksu008j19pc7o25dv7m/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5kaXRhYmluYXMiLCJhIjoiY2plejI3aHp3MDV3MjMzcW9ydXl2bHNmZiJ9.9h6j7BbkM-PUtK0zaZ1iUg',
-            sidebarColor: '#19191A',
+            sidebarColor: '#464647',
             fontColor: '#FFFFFF',
         }
 
