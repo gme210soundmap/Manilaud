@@ -1,7 +1,7 @@
 [{
         "id": "QuietUptown",
         "label": "Capitol Hills - It's quiet uptown. | Valence: 4, Interest: 3, PLA: None at all",
-        "googlemaps": "https://gme210soundmap.github.io/Manilaud/?lat=14.665634848692116&lng=121.07737589634783&M=QuietUptown",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.665634848692116&lng=121.07737589634783&M=QuietUptown",
         "vol": 1,
         "db": 0.2,
         "x": 14.6656348,
@@ -13,7 +13,7 @@
     {
         "id": "Satisfied",
         "label": "Capitol Hills - Wedding venue. | Valence: 5, Interest: 4, PLA: None at all",
-        "googlemaps": "https://gme210soundmap.github.io/Manilaud/?lat=14.663747257968797&lng=121.07591874962964&M=Satisfied",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.663747257968797&lng=121.07591874962964&M=Satisfied",
         "vol": 1,
         "db": 0.2,
         "x": 14.6637472,
