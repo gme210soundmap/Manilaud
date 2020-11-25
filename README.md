@@ -2,7 +2,8 @@
 
 An interactive map that aims to help understand how people interpret sounds around them and the noise in their local area through soundscapes; to also help shape local noise policies and plans. Aside from this, it also wants to enable users to explore different areas in Metro Manila and somehow get the feeling of being there in that particular place despite the lockdowns and isolation caused by the COVID-19 pandemic, through the semantic descriptions of the uploader, the soundscape attached to the location, and a photo related to the location.
 
---
+Perceived Level of Annoyance (Perceived Noise Level of a Location)
+-
 * This is a crowdsourcing soundmap where users can send sound recordings related to a location; or a soundscape of that particular place. The focus of the map is in Metro Manila, so possible soundscapes could be sound recordings from areas such as the MRT/LRT, near bridges and landmarks, parks, etc.
 
 * When submitting the soundscape, the user would have to include their perceived level of valence or the affective quality referring to the intrinsic attractiveness/goodness (positive valence) or averseness/badness (negative valence) of the said soundscape. This could be on a scale of -5 to 5.
