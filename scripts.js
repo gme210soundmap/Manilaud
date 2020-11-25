@@ -82,13 +82,13 @@ window.onload = function () {
 	
     ///// Adds Search toolbar; OSMGeocoder   /////
 	
-    var osmGeocoder = new L.Control.OSMGeocoder({position: 'topright'}); 
+    var osmGeocoder = new L.Control.OSMGeocoder({position: 'topleft'}); 
     mymap.addControl(osmGeocoder);
 	
     //Adds Locate Control; to locate the user's location on the map //////
 	
     var lc = L.control.locate({
-	    position: 'topright',
+	    position: 'topleft',
 	icon: 'fa fa-hand-o-down'
     });
     mymap.addControl(lc);	    
