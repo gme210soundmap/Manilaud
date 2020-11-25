@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>HEAR; Here 2.0</title>
+    <meta name="description" content="Hear who's here for you.">
+    <link rel="credits to:" href="https://donatuswolf.de">
+    <meta name="author" content="Donatus Wolf">
+
+    <meta property="og:title" content="HEAR; Here 2.0">
+    <meta property="og:description" content="Hear who's here for you." />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fh-potsdam.github.io/Sounds-of-Taipei/">
+    <meta property="og:site_name" content="GitHub" />
+    <meta property="og:image" content="https://i.imgur.com/h28zXM8.png">    
+
+    <meta name="theme-color" content="#ec4667">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon_io/site.webmanifest">
+    <link rel="mask-icon" href="assets/logo-day.svg" color="#ec4667">
+
+    <script type='text/javascript' src='libraries/jquery-3.2.1.min.js'></script>
+    <link rel='stylesheet' href='styles.css'>
+
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500,700,900" rel="stylesheet">
+
+    <link rel='stylesheet' href='libraries/leaflet.css'>
+    <script type='text/javascript' src='libraries/leaflet.js'></script>
+</head>
+
+<body>
+    <div class="sidebar">
+        <div class="top">
+            <div class="logo"></div>
+            <div class="more" onclick="toggleSidebar()"></div>
+        </div>
+        <div class="center">
+            <p class="howto">Click on a dot on the map to hear messages aiming to raise mental health awareness and lift each others' spirit.</p>
+            <ul class="legend">
+                <li class="item1">
+                    <h3>General</h3>
+                    <p>General message for anyone going through something.</p>
+                </li>
+                <li class="item2">
+                    <h3>I'm Here</h3>
+                    <p>If you're willing to listen to anyone, share your public contact details. (Social Media, Email, etc.)*</p>
+                </li>
+                <li class="item3">
+                    <h3>I'm a Mental Health Professional</h3>
+                    <p>If you offer free consultation, how can we contact you?*</p>
+                    <p>--</p>                    
+                    <p>*You hereby give consent to MHAPh to add your provided contact details on the map for the purposes of this platform.</p>                    
+                </li>
+            </ul>
+
+        </div>
+        <div class="bottom">
+
+            <div class="credits">
+                <div class="creditsleft">
+                    <a href="https://www-en.ntut.edu.tw/bin/home.php" target="_blank">NTUT</a> •
+                    <a href="https://github.com/FH-Potsdam/Sounds-of-Taipei" target="_blank">Github</a> •
+                    <a href="https://www.mapbox.com/about/maps/">©Mapbox</a> •
+                    <a href="http://www.openstreetmap.org/copyright">©OpenStreetMap</a>
+                    <p><strong><a href="https://www.mapbox.com/map-feedback/">Improve this map</strong></a>
+                </div>
+                <div class="creditsright">
+                    <a id="toggleTime" href="?time=night">toggle</a>
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+    <a href="https://forms.gle/xUJ9HubgCJfmTDJU6" target="_blank" class="addsound">+</a>
+    <div id="photo" class="hidden">
+        <p id="label">Sunset down by the river</p>
+    </div>
+    <div id="photobg" class="hidden"></div>
+    <div id="mapid"></div>
+</body>
+
+<script type='text/javascript' src='toggleSidebar.js'></script>
+<script type='text/javascript' src='scripts.js'></script>
+
+</html>
