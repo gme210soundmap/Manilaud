@@ -28,7 +28,7 @@ Aside from this, a soundscape map may also enable users to explore different are
 
 --
 
-# [Based on the Project and Github Repository: Sounds of Taipei and Think About Sound Map] (https://www.google.com "Sounds of Taipei")
+# Based on the Project and Github Repository: Sounds of Taipei and Think About Sound Map (https://github.com/donatuswolf/Sounds-of-Taipei "Sounds of Taipei")
 
 An interactive map of Taipei that lets you explore the city through its unique sounds.
 
