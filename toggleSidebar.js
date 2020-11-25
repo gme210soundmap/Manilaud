@@ -21,7 +21,7 @@ let toggleSidebarStatus = true;
             getCenter.style.opacity = 0;
             getBottom.style.opacity = 0;
 
-            getSidebar.style.height = '104px';
+            getSidebar.style.height = '70px';
             setArrow.style.transform = 'rotate(180deg)';
 
             toggleSidebarStatus = false;
