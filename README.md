@@ -57,9 +57,9 @@ photo file needs to be at *./assets/photos* in *jpg (600 x 400px)
 `locationshare`: the url to the location on the map, which opens when doubleclicking a dot. This url will appear when the user zooms in to the location in the map and drops the locationshare pin on it then clicking "get url". When contributing a sound, a contributor will be asked to provide this url.
 [![locationshare](/assets/locationshare.png)](https://gme210soundmap.github.io/Manilaud/?time=night) 
 
-`vol`:  how lound the song should be played on a scale from 0 (no sound) to 1 (maximum)
+`vol`:  How loud should the sondscape be played on a scale from 0 (no sound) to 1 (maximum)?
 
-`db`:   how loud the song is on a scale from 0 to 1   
+`db`:   how loud is the sound recording on a scale from 0 to 1   
         that creates the size of the circle when hovered
 
 `x`:   Latitude coordinate in decimal number
@@ -69,10 +69,10 @@ photo file needs to be at *./assets/photos* in *jpg (600 x 400px)
 `type`: The location types will be general:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `location`: the particular soundscape 
 
-`time`: was the sound recorded by `day` or by `night`? These soundscapes will be reflected on the map mode depending on when these sounds were recorded.
+`time`: Was the sound recorded during the `day` or during the `night`? These soundscapes will be reflected on the map mode depending on when these sounds were recorded.
 [![day](/assets/toggle-day.svg)](https://) [![day](/assets/toggle-night.svg)](https://)  
 
-`author`: Who recorded the sound   
+`author`: Who recorded the sound?   
 [fist name] [last name]
 
 
