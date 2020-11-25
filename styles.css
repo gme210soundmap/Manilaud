@@ -139,6 +139,14 @@ body {
     opacity: 0;
 }
 
+#lc {
+    opacity: 0;
+}
+
+#osmGeocoder {
+    opacity: 0;
+}
+
 .creditsleft {
     float: left;
 }
