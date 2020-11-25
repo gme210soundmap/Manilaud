@@ -79,6 +79,20 @@ window.onload = function () {
 
     var mymap = L.map('mapid').setView([lat, lng], zoom);
     L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);
+    
+    
+    ///// Adds Search toolbar; OSMGeocoder   ///// 
+    
+	var osmGeocoder = new L.Control.OSMGeocoder({position: 'topleft'});    
+	mymap.addControl(osmGeocoder);
+	
+    
+    //Adds Locate Control; to locate the user's location on the map //////
+	var lc = L.control.locate({
+	        position: 'topleft',
+	    icon: 'fa fa-hand-o-down'
+	});     
+	mymap.addControl(lc);
 
     //// load dataset from json ////////
 
