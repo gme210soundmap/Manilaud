@@ -80,6 +80,16 @@ window.onload = function () {
     var mymap = L.map('mapid').setView([lat, lng], zoom);
     L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);
 
+    var osmGeocoder = new L.Control.OSMGeocoder({position: 'topleft'}); //Adds Search toolbar; OSMGeocoder  
+    map.addControl(osmGeocoder);
+
+    var lc = L.control.locate({  //Adds Locate Control; to locate the user's location on the map
+            position: 'topleft',
+        icon: 'fa fa-hand-o-down'
+    }); 
+    map.addControl(lc);         
+    
+    
     //// load dataset from json ////////
 
     var places = $.getJSON('places.json', function (json) {
