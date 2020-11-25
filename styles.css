@@ -122,11 +122,11 @@ body {
 }
 
 .legend .item2 h3::before {
-    color: #e3de7f;
+    color: #000000;
 }
 
 .legend .item3 h3::before {
-    color: #4fa879;
+    color: #000000;
 }
 
 .legend li p {
