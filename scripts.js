@@ -99,7 +99,6 @@ window.onload = function () {
                 color: color[data.type], // color cirlces with type-colors
                 // fillColor: '#f03',
                 fillOpacity: 1,
-                radius: radiusMin, // default size of cirlces
                 icon: L.icon.glyph({ prefix: 'glyphicon', glyph: 'headphones' })
             }).addTo(mymap);
 
@@ -146,7 +145,6 @@ window.onload = function () {
 
                 circle.on('mouseout', function () {
                     audio.pause();
-                    circle.setRadius(radiusMin)
                     $('#photo').addClass('hidden'); // hide photo
                     $('#photobg').addClass('hidden');
                 });
