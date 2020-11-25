@@ -34,7 +34,7 @@ window.onload = function () {
             fontColor: '#646978',
         },
         night: {
-            mapUrl: 'https://api.mapbox.com/styles/v1/gme210soundmap/ckhx3g2nx0gnw19o0zei1saxb/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZ21lMjEwc291bmRtYXAiLCJhIjoiY2todng5MDBhMGtjaTJxbWxta2JqMm94byJ9.roHTpjZtdnSNtqTqIqJDoA',
+            mapUrl: 'https://api.mapbox.com/styles/v1/gme210soundmap/ckhx3s4xs0gtm19qw1xhl3wob/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZ21lMjEwc291bmRtYXAiLCJhIjoiY2todng5MDBhMGtjaTJxbWxta2JqMm94byJ9.roHTpjZtdnSNtqTqIqJDoA',
             sidebarColor: '#464647',
             fontColor: '#FFFFFF',
         }
