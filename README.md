@@ -28,24 +28,7 @@ Aside from this, a soundscape map may also enable users to explore different are
 
 --
 
-# [Based on the Project and Github Repository: Sounds of Taipei and Think About Sound Map] (https://github.com/donatuswolf/Sounds-of-Taipei "Sounds of Taipei")
-
-An interactive map of Taipei that lets you explore the city through its unique sounds.
-
-NTUT · National Taipei University of Technology  
-International Program for Interaction Design and Innovation  
-Special Topics on Interactive Media Design (II)
-
-For any questions about this project, feel free to <a href="mailto:sounds-of-taipei@donatuswolf.com">contact us</a>.
-
-Project by:  
-<a href="https://www.behance.net/johannakomesker" target="_blank">Johanna Komesker</a>  
-<a href="https://www.behance.net/Monarupperf19f" target="_blank">Mona Ruppert</a>  
-<a href="https://www.linkedin.com/in/padschneider" target="_blank">Patrick Schneider</a>  
-<a href="https://donatuswolf.de" target="_blank">Donatus Wolf</a>  
-
-[![preview screenshot](/assets/preview.png)](https://fh-potsdam.github.io/Sounds-of-Taipei/)  
- <a href="https://fh-potsdam.github.io/Sounds-of-Taipei/" target="_blank">Go to website</a> 
+## Based on the Project and Github Repository: <a href="https://github.com/donatuswolf/Sounds-of-Taipei" target="_blank">Sounds of Taipei</a> and <a href="http://www.thinkaboutsound.co.uk/" target="_blank">Think About Sound Map</a>
 
 Libraries used
 -
