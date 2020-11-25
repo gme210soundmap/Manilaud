@@ -80,7 +80,6 @@ window.onload = function () {
     var mymap = L.map('mapid').setView([lat, lng], zoom);
     L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);  
     
-    
     //// load dataset from json ////////
 
     var places = $.getJSON('places.json', function (json) {
@@ -145,6 +144,7 @@ window.onload = function () {
 
                 circle.on('mouseout', function () {
                     audio.pause();
+                    circle.setRadius(radiusMin)                    
                     $('#photo').addClass('hidden'); // hide photo
                     $('#photobg').addClass('hidden');
                 });
