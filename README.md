@@ -23,9 +23,9 @@ By plotting these attributes, we could help understand how people interpret soun
 Aside from this, a soundscape map may also enable users to explore different areas and somehow get the feeling of being there in that particular place despite the lockdowns and isolation caused by the pandemic, through the semantic descriptions of the uploader, the soundscape attached to the location, and a photo related to the location.
 
 ### Project by:
-<a href="https://facebook.com/andisomething" target="_blank">Andi Tabinas</a>
-<a href="https://facebook.com/kennethquisado" target="_blank">Kenneth Quisado</a>
-<a href="https://facebook.com/jeweltemplonuevo" target="_blank">Jewel Templonuevo</a>
+⋅⋅*<a href="https://facebook.com/andisomething" target="_blank">Andi Tabinas</a>
+⋅⋅*<a href="https://facebook.com/kennethquisado" target="_blank">Kenneth Quisado</a>
+⋅⋅*<a href="https://facebook.com/jeweltemplonuevo" target="_blank">Jewel Templonuevo</a>
 
 ### Map by:
 <a href="https://facebook.com/andisomething" target="_blank">Andi Tabinas</a>
@@ -70,8 +70,7 @@ photo file needs to be at *./assets/photos* in *jpg (600 x 400px)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `location`: the particular soundscape 
 
 `time`: was the sound recorded by `day` or by `night`? These soundscapes will be reflected on the map mode depending on when these sounds were recorded.
-[![day](/assets/toggle-day.svg)](https://)  
-[![day](/assets/toggle-night.svg)](https://)  
+[![day](/assets/toggle-day.svg)](https://) [![day](/assets/toggle-night.svg)](https://)  
 
 `author`: Who recorded the sound   
 [fist name] [last name]
