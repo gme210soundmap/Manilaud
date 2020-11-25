@@ -53,11 +53,11 @@ Contribute your sound
 Database structure `places.json`
 -
 
-`id`: The exact filename of the sound and photo in <a href="https://en.wikipedia.org/wiki/Camel_case " target="_blank">camelCase</a>. The filenames for both the sound and photo for one soundscape/location should exactly be the same. (E.g. "UPSunkenGarden.mp3" and "UPSunkenGarden.jpg")  
+`id`: The exact filename of the sound and photo in <a href="https://en.wikipedia.org/wiki/Camel_case " target="_blank">camelCase</a>. The filenames for both the sound and photo for one soundscape/location should exactly be the same. (E.g. **UPSunkenGarden.mp3** and **UPSunkenGarden.jpg**)  
 sound file needs to be at *./assets/sounds*  
 photo file needs to be at *./assets/photos* in *jpg (600 x 400px)
 
-`label`: The description of the audio which will be displayed on the photo and the valence and interest as rated by the uploader and users, respectively. (E.g. "UP Sunken Garden - Since less people are here than usual, the quiet rustling of leaves may be heard in between the sounds of passing vehicles. | Valence: 5; Interest: 4; PLA: None at all."
+`label`: The description of the audio which will be displayed on the photo and the valence and interest as rated by the uploader and users, respectively. (E.g. **UP Sunken Garden - Since less people are here than usual, the quiet rustling of leaves may be heard in between the sounds of passing vehicles. | Valence: 5; Interest: 4; PLA: None at all.**)
 
 `url / locationshare`: The url to the location on the map, which opens when doubleclicking a dot. This url will appear when the user zooms in to the location in the map and drops the locationshare pin on it then clicking "get url". When contributing a sound, a contributor will be asked to provide this url.
 [![locationshare](/assets/locationshare.png)](https://gme210soundmap.github.io/Manilaud/?time=night) 
