@@ -3,29 +3,32 @@
 An interactive map that aims to help understand how people interpret sounds around them and the noise in their local area through soundscapes; to also help shape local noise policies and plans. Aside from this, it also wants to enable users to explore different areas in Metro Manila and somehow get the feeling of being there in that particular place despite the lockdowns and isolation caused by the COVID-19 pandemic, through the semantic descriptions of the uploader, the soundscape attached to the location, and a photo related to the location.
 
 --
-• This is a crowdsourcing soundmap where users can send sound recordings related to a location; or a soundscape of that particular place. The focus of the map is in Metro Manila, so possible soundscapes could be sound recordings from areas such as the MRT/LRT, near bridges and landmarks, parks, etc.
+* This is a crowdsourcing soundmap where users can send sound recordings related to a location; or a soundscape of that particular place. The focus of the map is in Metro Manila, so possible soundscapes could be sound recordings from areas such as the MRT/LRT, near bridges and landmarks, parks, etc.
 
-• When submitting the soundscape, the user would have to include their perceived level of valence or the affective quality referring to the intrinsic attractiveness/goodness (positive valence) or averseness/badness (negative valence) of the said soundscape. This could be on a scale of -5 to 5.
+* When submitting the soundscape, the user would have to include their perceived level of valence or the affective quality referring to the intrinsic attractiveness/goodness (positive valence) or averseness/badness (negative valence) of the said soundscape. This could be on a scale of -5 to 5.
 
-• Then, once a soundcape is uploaded on the map, users/map visitors may also determine their level of interest on the sound using the same scale of -5 to 5.
+* Then, once a soundcape is uploaded on the map, users/map visitors may also determine their level of interest on the sound using the same scale of -5 to 5.
 
-• By plotting the valence and interest levels, the level of perceived annoyance or the perceived noise level of users on the soundscape may then be projected.
+* By plotting the valence and interest levels, the level of perceived annoyance or the perceived noise level of users on the soundscape may then be projected.
     * Low Valence, Low Interest: High Annoyance
     * High Valence, Low Interest: Slight/Moderate Annoyance
     * Low Valence, High Interest: Slight/Moderate Annoyance
     * High Valence, High Interest: None at all (Annoyance)
+
+[![preview screenshot](/assets/PLA.png)](https://)  
+ <a href="https://gme210soundmap.github.io/Manilaud/?time=day" target="_blank">Go to website</a> 
 
 By plotting these attributes, we could help understand how people interpret sounds around them and the noise in their local area. This could help shape local noise policies and plans.
 
 Aside from this, a soundscape map may also enable users to explore different areas and somehow get the feeling of being there in that particular place despite the lockdowns and isolation caused by the pandemic, through the semantic descriptions of the uploader, the soundscape attached to the location, and a photo related to the location.
 
 
-
-*We would like to thank NTUT's Sounds of Taipei for their amazing project which inspired us to do this.
+# We would like to thank NTUT's Sounds of Taipei and Think About Sound for their amazing project which inspired us to do this.
+*Andi Tabinas
 
 --
 
-# Based on the Project and Github Repository: Sounds of Taipei
+# Based on the Project and Github Repository: Sounds of Taipei and Think About Sound Map
 
 An interactive map of Taipei that lets you explore the city through its unique sounds.
 
