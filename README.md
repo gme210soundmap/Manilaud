@@ -76,7 +76,7 @@ photo file needs to be at *./assets/photos* in *jpg (600 x 400px)
 [![day](/assets/toggle-day.svg)](https://) [![day](/assets/toggle-night.svg)](https://)  
 
 `author`: Who recorded the sound?   
-[fist name] [last name]
+[fist name] or [nickname]
 
 
 --
