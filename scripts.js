@@ -83,7 +83,7 @@ window.onload = function () {
     ///// Adds Search toolbar; OSMGeocoder   /////
 	
     var osmGeocoder = new L.Control.OSMGeocoder({position: 'topleft'}); 
-    mymap.addControl(osmGeocoder);
+    map.addControl(osmGeocoder);
 	
     //Adds Locate Control; to locate the user's location on the map //////
 	
@@ -91,7 +91,7 @@ window.onload = function () {
 	    position: 'topleft',
 	icon: 'fa fa-hand-o-down'
     });
-    mymap.addControl(lc);	    
+    map.addControl(lc);	    
 
     //// load dataset from json ////////
 
