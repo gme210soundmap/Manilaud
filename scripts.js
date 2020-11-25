@@ -94,12 +94,12 @@ window.onload = function () {
         //// create circles ////////
 
         function drawPlace(data) {
-            var circle = L.Marker([data.x, data.y], {
+            var circle = L.circleMarker([data.x, data.y], {
                 // color: data.type,
                 color: color[data.type], // color cirlces with type-colors
                 // fillColor: '#f03',
                 fillOpacity: 1,
-                icon: L.icon.glyph({ prefix: 'glyphicon', glyph: 'headphones' })
+                radius: radiusMin // default size of cirlces
             }).addTo(mymap);
 
             //// mouseover ////////
