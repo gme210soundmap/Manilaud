@@ -4,7 +4,7 @@ An interactive map that aims to help understand how people interpret sounds arou
 
 Perceived Level of Annoyance (Perceived Noise Level of a Location)
 -
-#### Help us get the Perceived Level of Annoyance over particular locations or soundscapes by providing your 'Level of Interest' on each soundscape on the map after listening to them. To help us, please go to this link.
+#### Help us get the Perceived Level of Annoyance over particular locations or soundscapes by providing your 'Level of Interest' on each soundscape on the map after listening to them. To help us, please go to this link. To understand more about it, please read below:
 
 * This is a crowdsourcing soundmap where users can send sound recordings related to a location; or a soundscape of that particular place. The focus of the map is in Metro Manila, so possible soundscapes could be sound recordings from areas such as the MRT/LRT, near bridges and landmarks, parks, etc.
 
