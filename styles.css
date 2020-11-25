@@ -20,7 +20,7 @@ body {
     justify-content: space-between;
     position: absolute;
     top: 0;
-    left: 0;
+    right: 0;
     z-index: 2;
     background: #FFFFFF;
     border-radius: 0 10px 10px 0;
@@ -227,13 +227,13 @@ body {
     width: 64px;
     height: 64px;
     text-align: center;
-    background-color:#ec4667;
+    background-color:#5e1c29;
     color: white;
     text-decoration: none;
     border-radius: 100%;
     position: absolute;
     bottom: 20px;
-    right: 20px;
+    left: 20px;
     z-index: 6;
     line-height: 62px;
     font-size: 40px;
@@ -242,7 +242,7 @@ body {
 }
 
 .addsound:hover {
-    background-color: #ec4667;
+    background-color: #5e1c29;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 
