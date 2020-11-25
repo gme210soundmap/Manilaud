@@ -140,11 +140,11 @@ body {
 }
 
 #lc {
-    opacity: 0;
+    opacity: 100;
 }
 
 #osmGeocoder {
-    opacity: 0;
+    opacity: 100;
 }
 
 .creditsleft {
