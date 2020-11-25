@@ -46,7 +46,7 @@ Libraries used
 Contribute your sound
 -
 
-<a href="https://forms.gle/CxhxLbpsrDeddRCq5" target="_blank">Upload form</a>
+<a href="https://forms.gle/qd69PJvNmUwfgnFx6" target="_blank">Upload form</a>
 
 Database structure `places.json`
 -
