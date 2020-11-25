@@ -316,6 +316,7 @@ body {
     .howto{
         margin: 22px 0;
         max-width: 430px;
+        color: #646978;
     }
 
     .legend {
