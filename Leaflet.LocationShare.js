@@ -40,7 +40,7 @@ L.Control.ShareLocation = L.Control.extend({
         this.link = L.DomUtil.create('a', 'leaflet-bar-part', container);
         this.link.title = this.options.title;
         var userIcon = L.DomUtil.create('img' , 'img-responsive' , this.link);
-        userIcon.src = 'https://github.com/gme210soundmap/Manilaud/blob/main/assets/locator.png'
+        userIcon.src = 'https://github.com/gme210soundmap/Manilaud/blob/main/assets/locatorshare.png'
         this.link.href = '#';
 
         L.DomEvent.on(this.link, 'click', this._click, this);
