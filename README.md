@@ -30,7 +30,7 @@ Aside from this, a soundscape map may also enable users to explore different are
 ### Map by:
 <a href="https://facebook.com/andisomething" target="_blank">Andi Tabinas</a>
 
-## We would like to thank NTUT's Sounds of Taipei and Think About Sound for their amazing project which inspired us to do this.
+#### We would like to thank NTUT's Sounds of Taipei and Think About Sound for their amazing project which inspired us to do this.
 
 
 Libraries used
