@@ -80,8 +80,11 @@ window.onload = function () {
     var mymap = L.map('mapid').setView([lat, lng], zoom);
     L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);
 
-    var osmGeocoder = new L.Control.OSMGeocoder({position: 'topleft'}); //Adds Search toolbar; OSMGeocoder  
-    map.addControl(osmGeocoder);
+    const search = new GeoSearch.GeoSearchControl({
+        provider: new GeoSearch.OpenStreetMapProvider(),
+    m});        
+    mymap.addControl(search);
+    
 
     var lc = L.control.locate({  //Adds Locate Control; to locate the user's location on the map
             position: 'topleft',
