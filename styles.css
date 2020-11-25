@@ -241,7 +241,7 @@ body {
     border-radius: 100%;
     position: absolute;
     bottom: 20px;
-    right: 20px;
+    left: 20px;
     z-index: 6;
     line-height: 62px;
     font-size: 40px;
