@@ -1,3 +1,4 @@
+
 L.LocShare = {}
 var LS = L.LocShare
 LS.Send = {}
@@ -40,7 +41,7 @@ L.Control.ShareLocation = L.Control.extend({
         this.link = L.DomUtil.create('a', 'leaflet-bar-part', container);
         this.link.title = this.options.title;
         var userIcon = L.DomUtil.create('img' , 'img-responsive' , this.link);
-        userIcon.src = 'https://github.com/gme210soundmap/Manilaud/blob/main/assets/locatorshare.png'
+        userIcon.src = 'https://raw.githubusercontent.com/CliffCloud/Leaflet.LocationShare/master/dist/images/IconLocShare.png'
         this.link.href = '#';
 
         L.DomEvent.on(this.link, 'click', this._click, this);
