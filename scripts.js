@@ -78,21 +78,7 @@ window.onload = function () {
     var zoom = 6;
 
     var mymap = L.map('mapid').setView([lat, lng], zoom);
-    L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);
-
-    import { SearchControl, OpenStreetMapProvider } from 'leaflet-geosearch';
-    const searchControl = new SearchControl({
-        style: 'button',      
-        provider: new OpenStreetMapProvider(),
-    });        
-    mymap.addControl(searchControl);
-    
-
-    var lc = L.control.locate({  //Adds Locate Control; to locate the user's location on the map
-            position: 'topleft',
-        icon: 'fa fa-hand-o-down'
-    }); 
-    map.addControl(lc);         
+    L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);  
     
     
     //// load dataset from json ////////
