@@ -7,7 +7,7 @@ let toggleSidebarStatus = true;
         let setArrow = document.querySelector('.more');
 
         if (toggleSidebarStatus === false) {
-            getSidebar.style.height = '416px';
+            getSidebar.style.height = '390px';
             setArrow.style.transform = 'rotate(0deg)';
 
             getCenter.style.opacity = 1;
