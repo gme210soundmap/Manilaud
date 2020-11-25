@@ -70,8 +70,8 @@ photo file needs to be at *./assets/photos* in *jpg (600 x 400px)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `location`: the particular soundscape 
 
 `time`: was the sound recorded by `day` or by `night`? These soundscapes will be reflected on the map mode depending on when these sounds were recorded.
-[![day](/assets/toggle-day.svg)
-[![day](/assets/toggle-day.svg)
+[![day](/assets/toggle-day.svg)](https://)  
+[![day](/assets/toggle-night.svg)](https://)  
 
 `author`: Who recorded the sound   
 [fist name] [last name]
