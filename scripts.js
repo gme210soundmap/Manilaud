@@ -80,10 +80,12 @@ window.onload = function () {
     var mymap = L.map('mapid').setView([lat, lng], zoom);
     L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);
 
-    const search = new GeoSearch.GeoSearchControl({
-        provider: new GeoSearch.OpenStreetMapProvider(),
-    m});        
-    mymap.addControl(search);
+    import { SearchControl, OpenStreetMapProvider } from 'leaflet-geosearch';
+    const searchControl = new SearchControl({
+        style: 'button',      
+        provider: new OpenStreetMapProvider(),
+    });        
+    mymap.addControl(searchControl);
     
 
     var lc = L.control.locate({  //Adds Locate Control; to locate the user's location on the map
