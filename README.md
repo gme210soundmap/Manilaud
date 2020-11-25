@@ -25,13 +25,15 @@ By plotting these attributes, we could help understand how people interpret soun
 
 Aside from this, a soundscape map may also enable users to explore different areas and somehow get the feeling of being there in that particular place despite the lockdowns and isolation caused by the pandemic, through the semantic descriptions of the uploader, the soundscape attached to the location, and a photo related to the location.
 
+<a href="https://gme210soundmap.github.io/Manilaud/?time=night" target="_blank">Metro Manila PLA Map (link to be updated)</a> 
+
 ### Project by:
 - <a href="https://facebook.com/andisomething" target="_blank">Andi Tabinas</a>
-- <a href="https://facebook.com/kennethquisado" target="_blank">Kenneth Quisado</a>
-- <a href="https://facebook.com/jeweltemplonuevo" target="_blank">Jewel Templonuevo</a>
+- <a href="https://www.facebook.com/kaquisado/" target="_blank">Kenneth Quisado</a>
+- <a href="https://www.facebook.com/jewel.templonuevo/" target="_blank">Jewel Templonuevo</a>
 
 ### Map by:
-<a href="https://facebook.com/andisomething" target="_blank">Andi Tabinas</a>
+<a href="https://public.tableau.com/profile/spatially4u#!/" target="_blank">Andi Tabinas</a>
 
 #### We would like to thank NTUT's Sounds of Taipei and Think About Sound for their amazing project which inspired us to do this.
 
