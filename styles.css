@@ -225,7 +225,7 @@ body {
 
 .mapbox-attribution-container {
   bottom: 0;
-  right: 0;
+  left: 0;
   position: absolute;
   display: block;
   margin: 0 10 5;
