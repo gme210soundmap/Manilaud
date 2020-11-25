@@ -1,14 +1,14 @@
 [{
-        "id": "AAAndiNight",
+        "id": "QuietUptown",
         "label": "Capitol Hills | Valence: 4, Interest: 3, PLA: None at all",
-        "googlemaps": "https://goo.gl/maps/8sVx2UxLwGXDpoDJ8",
+        "googlemaps": "https://gme210soundmap.github.io/Manilaud/?lat=14.665634848692116&lng=121.07737589634783&M=QuietUptown",
         "vol": 1,
         "db": 0.2,
-        "x": 14.6637412,
-        "y": 121.065849,
+        "x": 14.6656348,
+        "y": 121.077375,
         "type": "general",
-        "time": "night",
-        "author": "Andi Tabinas"
+        "time": "day",
+        "author": "Andi"
     },
     {
         "id": "AAAndiDay",
@@ -19,7 +19,7 @@
         "x": 14.6637412,
         "y": 121.065849,
         "type": "general",
-        "time": "day",
+        "time": "night",
         "author": "Andi Tabinas"
     }
 ]
