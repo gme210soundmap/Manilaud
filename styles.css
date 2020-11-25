@@ -165,7 +165,7 @@ body {
 }
 
 .credits a:hover {
-    color: #ec4667;
+    color: #f7f8fa;
 }
 
 #photo, #photobg {
@@ -273,7 +273,7 @@ body {
 }
 
 .addsound:hover {
-    background-color: #5e1c29;
+    background-color: #f7f8fa;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 
