@@ -7,14 +7,14 @@ LS.Receive = {}
 LS.Receive.Marker = {}
 LS.Receive.Popup = L.popup()
 var sendIcon = L.icon({
-  iconUrl: "https://raw.githubusercontent.com/gme210soundmap/Manilaud/blob/main/assets/locator.png",
+  iconUrl: "https://www.flaticon.com/svg/static/icons/svg/1161/1161258.svg",
   iconSize:     [50, 50], // size of the icon
   iconAnchor:   [25, 50], // point of the icon which will correspond to marker's location
   popupAnchor:  [0, -30] // point from which the popup should open relative to the iconAnchor
 })
 
 receiveIcon = L.icon({
-  iconUrl: "https://raw.githubusercontent.com/gme210soundmap/Manilaud/blob/main/assets/locator.png",
+  iconUrl: "https://www.flaticon.com/svg/static/icons/svg/1161/1161258.svg",
   iconSize:     [50, 50], // size of the icon
   iconAnchor:   [25, 50], // point of the icon which will correspond to marker's location
   popupAnchor:  [0, -30] // point from which the popup should open relative to the iconAnchor
@@ -40,7 +40,7 @@ L.Control.ShareLocation = L.Control.extend({
         this.link = L.DomUtil.create('a', 'leaflet-bar-part', container);
         this.link.title = this.options.title;
         var userIcon = L.DomUtil.create('img' , 'img-responsive' , this.link);
-        userIcon.src = 'https://raw.githubusercontent.com/gme210soundmap/Manilaud/blob/main/assets/locator.png'
+        userIcon.src = 'https://www.flaticon.com/svg/static/icons/svg/1161/1161258.svg'
         this.link.href = '#';
 
         L.DomEvent.on(this.link, 'click', this._click, this);
