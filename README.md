@@ -23,12 +23,12 @@ By plotting these attributes, we could help understand how people interpret soun
 Aside from this, a soundscape map may also enable users to explore different areas and somehow get the feeling of being there in that particular place despite the lockdowns and isolation caused by the pandemic, through the semantic descriptions of the uploader, the soundscape attached to the location, and a photo related to the location.
 
 
-# We would like to thank NTUT's Sounds of Taipei and Think About Sound for their amazing project which inspired us to do this.
+## We would like to thank NTUT's Sounds of Taipei and Think About Sound for their amazing project which inspired us to do this.
 *Andi Tabinas
 
 --
 
-# Based on the Project and Github Repository: Sounds of Taipei and Think About Sound Map
+# [Based on the Project and Github Repository: Sounds of Taipei and Think About Sound Map] (https://www.google.com "Sounds of Taipei")
 
 An interactive map of Taipei that lets you explore the city through its unique sounds.
 
