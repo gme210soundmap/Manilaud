@@ -21,5 +21,17 @@
         "type": "general",
         "time": "night",
         "author": "Andi"
+    },
+     {
+        "id": "Visayas",
+        "label": "Visayas Avenue, near Andok's - Taken 3:45pm. Almost rush hour along Visayas Avenue where motor vehicles (both big and small) are seen and heard. Relaxing the quarantine results in an increased number of vehicles plying the roads of the metro | Valence: -2, Interest: _, PLA: _",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.65964645179646&lng=121.04480267312228&M=Andok's%20Visayas%20Avenue",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.659646,
+        "y": 121.044802,
+        "type": "general",
+        "time": "day",
+        "author": "Kenneth"
     }
 ]
