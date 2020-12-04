@@ -1,6 +1,6 @@
 [{
         "id": "Visayas",
-        "label": "Visayas Avenue, near Andok's - Taken 3:45pm. Almost rush hour along Visayas Avenue where motor vehicles (both big and small) are seen and heard. Relaxing the quarantine results in an increased number of vehicles plying the roads of the metro | Valence: -2, Interest: 1, PLA: _",
+        "label": "Visayas Avenue, near Andok's - Taken 3:45pm. Almost rush hour along Visayas Avenue where motor vehicles (both big and small) are seen and heard. Relaxing the quarantine results in an increased number of vehicles plying the roads of the metro | Valence: -2, Interest: 1, PLA: Slight/Moderate",
         "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.65964645179646&lng=121.04480267312228&M=Andok's%20Visayas%20Avenue",
         "vol": 1,
         "db": 0.2,
@@ -12,7 +12,7 @@
     },
     {
         "id": "Capitol Hills Golf and Country Club",
-        "label": "Capitol Hills Golf & Country Club - 12:35PM; The faint sound of birds chirping are heard while a mellow Christmas song is played in the background. The sound is perfect with the view of greens. | Valence: 5, Interest: _, PLA: None at all",
+        "label": "Capitol Hills Golf & Country Club - 12:35PM; The faint sound of birds chirping are heard while a mellow Christmas song is played in the background. The sound is perfect with the view of greens. | Valence: 5, Interest: 4, PLA: None at all",
         "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.663473173870793&lng=121.08399951852336&M=Capitol%20Hills%20Golf%20%26%20Country%20Club",
         "vol": 1,
         "db": 0.2,
@@ -24,7 +24,7 @@
     },
      {
         "id": "Vertis North Open Area",
-        "label": "Vertis North Open Area - 7:53PM; Open grassy area with cafes and restaurants around. Jazzy music is heard loudly making the feel around the area romantic and cozy. | Valence: 3, Interest: _, PLA: _",
+        "label": "Vertis North Open Area - 7:53PM; Open grassy area with cafes and restaurants around. Jazzy music is heard loudly making the feel around the area romantic and cozy. | Valence: 3, Interest: 3, PLA: None at all",
         "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.65259896733657&lng=121.03598193891231&M=Vertis%20North%20Open%20Area",
         "vol": 1,
         "db": 0.2,
@@ -36,7 +36,7 @@
     },
      {
         "id": "MWSS South Gate",
-        "label": "MWSS South Gate - 4:08PM; Loud sounds from the passing vehicles can be heard along with the radio playing from the guardhouse. | Valence: -3, Interest: _, PLA: _",
+        "label": "MWSS South Gate - 4:08PM; Loud sounds from the passing vehicles can be heard along with the radio playing from the guardhouse. | Valence: -3, Interest: -2, PLA: High",
         "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.653924274079465&lng=121.07469800761467&M=MWSS%20South%20Gate",
         "vol": 1,
         "db": 0.2,
@@ -48,7 +48,7 @@
     },
      {
         "id": "UP Gate-Balara Jeepney Station",
-        "label": "UP Gate-Balara Jeepney Station - 4:02PM; Loud sounds from jeepney and tricycles parked and moving around the area can be heard. Conversations from people in the area (vendors, passengers, passersby, etc.) are also heard. | Valence: -4, Interest: _, PLA: _",
+        "label": "UP Gate-Balara Jeepney Station - 4:02PM; Loud sounds from jeepney and tricycles parked and moving around the area can be heard. Conversations from people in the area (vendors, passengers, passersby, etc.) are also heard. | Valence: -4, Interest: -3, PLA: High",
         "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.653239815039427&lng=121.07460157971221&M=UP%20Gate-Balara%20Jeepney%20Station",
         "vol": 1,
         "db": 0.2,
@@ -60,7 +60,7 @@
     },
      {
         "id": "NAPC",
-        "label": "NAPC - 3:45PM; NAPC area at the MWSS Complex; Birds are chirping in the background while the faint sound of passing vehicles are also heard. | Valence: 2, Interest: _, PLA: _",
+        "label": "NAPC - 3:45PM; NAPC area at the MWSS Complex; Birds are chirping in the background while the faint sound of passing vehicles are also heard. | Valence: 2, Interest: 3, PLA: None at all",
         "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.654501985333948&lng=121.07627761393816&M=NAPC",
         "vol": 1,
         "db": 0.2,
