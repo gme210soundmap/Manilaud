@@ -1,30 +1,6 @@
 [{
-        "id": "QuietUptown",
-        "label": "Capitol Hills - It's quiet uptown. | Valence: 4, Interest: 3, PLA: None at all",
-        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.665634848692116&lng=121.07737589634783&M=QuietUptown",
-        "vol": 1,
-        "db": 0.2,
-        "x": 14.6656348,
-        "y": 121.077375,
-        "type": "general",
-        "time": "day",
-        "author": "Andi"
-    },
-    {
-        "id": "Satisfied",
-        "label": "Capitol Hills - Wedding venue. | Valence: 5, Interest: 4, PLA: None at all",
-        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.663747257968797&lng=121.07591874962964&M=Satisfied",
-        "vol": 1,
-        "db": 0.2,
-        "x": 14.6637472,
-        "y": 121.075918,
-        "type": "general",
-        "time": "night",
-        "author": "Andi"
-    },
-     {
         "id": "Visayas",
-        "label": "Visayas Avenue, near Andok's - Taken 3:45pm. Almost rush hour along Visayas Avenue where motor vehicles (both big and small) are seen and heard. Relaxing the quarantine results in an increased number of vehicles plying the roads of the metro | Valence: -2, Interest: _, PLA: _",
+        "label": "Visayas Avenue, near Andok's - Taken 3:45pm. Almost rush hour along Visayas Avenue where motor vehicles (both big and small) are seen and heard. Relaxing the quarantine results in an increased number of vehicles plying the roads of the metro | Valence: -2, Interest: 1, PLA: _",
         "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.65964645179646&lng=121.04480267312228&M=Andok's%20Visayas%20Avenue",
         "vol": 1,
         "db": 0.2,
@@ -33,5 +9,65 @@
         "type": "general",
         "time": "day",
         "author": "Kenneth"
+    },
+    {
+        "id": "Capitol Hills Golf & Country Club",
+        "label": "Capitol Hills Golf & Country Club - 12:35PM; The faint sound of birds chirping are heard while a mellow Christmas song is played in the background. The sound is perfect with the view of greens. | Valence: 5, Interest: _, PLA: None at all",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.663473173870793&lng=121.08399951852336&M=Capitol%20Hills%20Golf%20%26%20Country%20Club",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.663473,
+        "y": 121.083999,
+        "type": "general",
+        "time": "day",
+        "author": "Toshi"
+    },
+     {
+        "id": "Vertis North Open Area",
+        "label": "Vertis North Open Area - 7:53PM; Open grassy area with cafes and restaurants around. Jazzy music is heard loudly making the feel around the area romantic and cozy. | Valence: 3, Interest: _, PLA: _",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.65259896733657&lng=121.03598193891231&M=Vertis%20North%20Open%20Area",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.652598,
+        "y": 121.035981,
+        "type": "general",
+        "time": "night",
+        "author": "Andi"
+    },
+     {
+        "id": "MWSS South Gate",
+        "label": "MWSS South Gate - 4:08PM; Loud sounds from the passing vehicles can be heard along with the radio playing from the guardhouse. | Valence: -3, Interest: _, PLA: _",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.653924274079465&lng=121.07469800761467&M=MWSS%20South%20Gate",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.653924,
+        "y": 121.074698,
+        "type": "general",
+        "time": "day",
+        "author": "A"
+    },
+     {
+        "id": "UP Gate-Balara Jeepney Station",
+        "label": "UP Gate-Balara Jeepney Station - 4:02PM; Loud sounds from jeepney and tricycles parked and moving around the area can be heard. Conversations from people in the area (vendors, passengers, passersby, etc.) are also heard. | Valence: -4, Interest: _, PLA: _",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.653239815039427&lng=121.07460157971221&M=UP%20Gate-Balara%20Jeepney%20Station",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.653239,
+        "y": 121.074601,
+        "type": "general",
+        "time": "day",
+        "author": "T"
+    },
+     {
+        "id": "NAPC",
+        "label": "NAPC - 3:45PM; NAPC area at the MWSS Complex; Birds are chirping in the background while the faint sound of passing vehicles are also heard. | Valence: 2, Interest: _, PLA: _",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.654501985333948&lng=121.07627761393816&M=NAPC",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.654501,
+        "y": 121.076277,
+        "type": "general",
+        "time": "day",
+        "author": "Andi"
     }
 ]
