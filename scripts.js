@@ -87,10 +87,10 @@ window.onload = function () {
         }
     }).addTo(mymap);
     
-    const search = new GeoSearch.GeoSearchControl({
-        provider: new GeoSearch.OpenStreetMapProvider(),
-        });
-    mymap.addControl(search);
+    osmGeocoder = new L.Control.OSMGeocoder({
+        position: 'topleft'
+        }
+    }).addTo(mymap);
     
     
     //// load dataset from json ////////
