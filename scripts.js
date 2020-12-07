@@ -80,12 +80,6 @@ window.onload = function () {
     var mymap = L.map('mapid').setView([lat, lng], zoom);
     L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);  
     
-    var lc = L.control.locate({
-    position: 'topright',
-    strings: {
-        title: "Show me where I am."}
-    }).addTo(mymap);
-    
     //// load dataset from json ////////
 
     var places = $.getJSON('places.json', function (json) {
