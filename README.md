@@ -55,6 +55,9 @@ Contribute your sound
 
 <a href="https://forms.gle/qd69PJvNmUwfgnFx6" target="_blank">Upload form</a>
 
+[![preview screenshot](/assets/guide.png)](https://)  
+ <a href="https://forms.gle/qd69PJvNmUwfgnFx6" target="_blank">Uploading Guide</a> 
+
 Database structure `places.json`
 -
 
