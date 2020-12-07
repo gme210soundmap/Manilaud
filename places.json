@@ -69,5 +69,29 @@
         "type": "general",
         "time": "day",
         "author": "Andi"
+    },
+     {
+        "id": "BalintawakBonifacioMonument",
+        "label": "Balintawak Bonifacio Monument - 7:57PM. Taken during the rush hour. Lots of noises from people and passing vehicles. | Valence: -5, Interest: -4, PLA: High",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.65684544587496&lng=120.99959163453605&M=Balintawak%20Bonifacio%20Monument%20",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.65684,
+        "y": 120.99959,
+        "type": "general",
+        "time": "night",
+        "author": "Toshi"
+    },
+     {
+        "id": "NAPC",
+        "label": "Avida Towers Vita Park - Taken on the second floor of the building where the open park/green space/swimming pool is located. Only a few people were there during the time, some were swimming, others were strolling. Taken during the day, around 4pm | Valence: -1, Interest: -2, PLA: High",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.646766641115173&lng=121.03630466608595&M=Avida%20Towers%20Vita%20Park",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.646766,
+        "y": 121.0363046,
+        "type": "general",
+        "time": "day",
+        "author": "Arnalie"
     }
 ]
