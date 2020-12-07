@@ -87,6 +87,11 @@ window.onload = function () {
         }
     }).addTo(mymap);
     
+    const search = new GeoSearch.GeoSearchControl({
+        provider: new GeoSearch.OpenStreetMapProvider(),
+        });
+    mymap.addControl(search);
+    
     
     //// load dataset from json ////////
 
