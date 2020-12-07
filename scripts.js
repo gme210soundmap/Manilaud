@@ -87,10 +87,9 @@ window.onload = function () {
         }
     }).addTo(mymap);
     
-    osmGeocoder = new L.Control.OSMGeocoder({
-        position: 'topleft'
-        }
-    }).addTo(mymap);
+    var osmGeocoder = new L.Control.OSMGeocoder({
+        position: 'topleft'}); //Adds Search toolbar; OSMGeocoder
+    mymap.addControl(osmGeocoder);
     
     
     //// load dataset from json ////////
