@@ -81,9 +81,10 @@ window.onload = function () {
     L.tileLayer(timeTheme[timeState].mapUrl).addTo(mymap);  
     
     lc = L.control.locate({
-    strings: {
+        icon: 'fa fa-hand-o-down',
+        strings: {
         title: "Show my location."
-    }
+        }
     }).addTo(mymap);
     
     
