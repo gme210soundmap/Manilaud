@@ -28,7 +28,6 @@ Aside from this, a soundscape map may also enable users to explore different are
 
 - <a href="https://public.tableau.com/views/PercievedLevelofAnnoyanceofSoundscapes/Dashboard1?:language=en&:display_count=no&:showVizHome=no&:showShareOptions=false" target="_blank">PLA Plots of Submitted Soundscapes per Metro Manila City/Municipality</a>
 ![preview screenshot](/assets/PLAPlot.png)
-<a href="https://public.tableau.com/views/PercievedLevelofAnnoyanceofSoundscapes/Dashboard1?:language=en&:display_count=no&:showVizHome=no&:showShareOptions=false" target="_blank">PLA Plots of Submitted Soundscapes per Metro Manila City/Municipality</a> 
 
 - <a href="https://gme210soundmap.github.io/Manilaud/?time=night" target="_blank">Metro Manila PLA Map (link to be updated)</a> 
 
