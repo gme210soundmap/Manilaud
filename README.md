@@ -18,6 +18,7 @@ Perceived Level of Annoyance (Perceived Noise Level of a Location)
     * Low Valence, High Interest: Slight/Moderate Annoyance
     * High Valence, High Interest: None at all (Annoyance)
 
+
 [![preview screenshot](/assets/PLA.png)](https://)  
  <a href="https://gme210soundmap.github.io/Manilaud/?time=day" target="_blank">Go to the map/website.</a> 
 
@@ -25,8 +26,9 @@ By plotting these attributes, we could help understand how people interpret soun
 
 Aside from this, a soundscape map may also enable users to explore different areas and somehow get the feeling of being there in that particular place despite the lockdowns and isolation caused by the pandemic, through the semantic descriptions of the uploader, the soundscape attached to the location, and a photo related to the location.
 
-![preview screenshot](/assets/PLAPlot.png)](https://)  
- <a href="https://public.tableau.com/views/PercievedLevelofAnnoyanceofSoundscapes/Dashboard1?:language=en&:display_count=no&:showVizHome=no&:showShareOptions=false" target="_blank">PLA Plots of Submitted Soundscapes per Metro Manila City/Municipality</a> 
+- <a href="https://public.tableau.com/views/PercievedLevelofAnnoyanceofSoundscapes/Dashboard1?:language=en&:display_count=no&:showVizHome=no&:showShareOptions=false" target="_blank">PLA Plots of Submitted Soundscapes per Metro Manila City/Municipality</a>
+![preview screenshot](/assets/PLAPlot.png)
+<a href="https://public.tableau.com/views/PercievedLevelofAnnoyanceofSoundscapes/Dashboard1?:language=en&:display_count=no&:showVizHome=no&:showShareOptions=false" target="_blank">PLA Plots of Submitted Soundscapes per Metro Manila City/Municipality</a> 
 
 - <a href="https://gme210soundmap.github.io/Manilaud/?time=night" target="_blank">Metro Manila PLA Map (link to be updated)</a> 
 
