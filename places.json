@@ -93,5 +93,41 @@
         "type": "general",
         "time": "day",
         "author": "Arnalie"
+    },
+     {
+        "id": "RobinsonsMetroEast",
+        "label": "Robinsons Metro East - This is the mood in this mall during the Christmas season. There are lesser people visiting and shopping due to the pandemic. Filipinos can always find a way to celebrate despite of the recent unfornate events. | Valence: 5, Interest: , PLA: ",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.619588942433001&lng=121.09999351587399&M=Robinsons%20Metro%20East",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.61958,
+        "y": 121.09999,
+        "type": "general",
+        "time": "day",
+        "author": "Jewel"
+    },
+     {
+        "id": "AyalaMallsFeliz",
+        "label": "Ayala Malls Feliz - This mall opened in 2017 and inside is still a developing one as it started with a few stores. During this time, there are a few people shopping and dining which is unusual with this Christmas season. | Valence: 3, Interest: , PLA: ",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.61965668466837&lng=121.0938565215374&M=Ayala%20Malls%20Feliz",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.61965,
+        "y": 121.09385,
+        "type": "general",
+        "time": "day",
+        "author": "Jewel"
+    },
+     {
+        "id": "QuezonAvenue",
+        "label": "Quezon Avenue - Taken at eight o'clock in the morning, this road is usually a busy place but because this is one of the times of the year when people opt for a vacation or get back to their home provinces. Hearing the hustle and bustle of traffic is a part of everyday life in the cities here in Metro Manila.  | Valence: -2, Interest: , PLA: ",
+        "url": "https://gme210soundmap.github.io/Manilaud/?lat=14.631221570777228&lng=121.01678045139722&M=Quezon%20Avenue",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.63122,
+        "y": 121.0167,
+        "type": "general",
+        "time": "day",
+        "author": "Jewel"
     }
 ]
