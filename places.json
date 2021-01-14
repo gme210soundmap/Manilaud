@@ -144,7 +144,7 @@
     },
      {
         "id": "AdamsonUniversity",
-        "label": "Adamson University - Taken at around noon with busy traffic around the area. | Valence: 1, Interest: -1, PLA: ",
+        "label": "Adamson University - Taken at around noon with busy traffic around the area. | Valence: 1, Interest: -1, PLA: Slight/Moderate ",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -156,7 +156,7 @@
     },
      {
         "id": "AyalaMuseum",
-        "label": "AyalaMuseum - Early in the morning, around 9am. There are conversations that can be heard. | Valence: -1, Interest: 0, PLA:",
+        "label": "AyalaMuseum - Early in the morning, around 9am. There are conversations that can be heard. | Valence: -1, Interest: 0, PLA: Slight/Moderate",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -168,7 +168,7 @@
     },
      {
         "id": "ChinaTown",
-        "label": "China Town - Busy traffic around 1PM. | Valence: -3, Interest: -2, PLA:",
+        "label": "China Town - Busy traffic around 1PM. | Valence: -3, Interest: -2, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -180,7 +180,7 @@
     },
      {
         "id": "CommonwealthBatasan",
-        "label": "Commonwealth Ave., Batasan - Taken before 8am on a busy day. | Valence: -3, Interest: -3, PLA:",
+        "label": "Commonwealth Ave., Batasan - Taken before 8am on a busy day. | Valence: -3, Interest: -3, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -192,7 +192,7 @@
     },
      {
         "id": "EdsaShrine",
-        "label": "Edsa Shrine - 10:14AM, noisy. Traffic and people can be heard. | Valence: -2, Interest: -2, PLA:",
+        "label": "Edsa Shrine - 10:14AM, noisy. Traffic and people can be heard. | Valence: -2, Interest: -2, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -204,7 +204,7 @@
     },
      {
         "id": "EscoltaMmanila",
-        "label": "Escolta Street, Manila - 1PM, noisy. | Valence: -1, Interest: -1, PLA:",
+        "label": "Escolta Street, Manila - 1PM, noisy. | Valence: -1, Interest: -1, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -216,7 +216,7 @@
     },
      {
         "id": "EulogioRodriguezAve",
-        "label": "Eulogio Rodriguez Jr. Ave - 10AM, noisy traffic. | Valence: -1, Interest: -2, PLA:",
+        "label": "Eulogio Rodriguez Jr. Ave - 10AM, noisy traffic. | Valence: -1, Interest: -2, PLA: Slight/High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -228,7 +228,7 @@
     },
      {
         "id": "FCMRegalado",
-        "label": "FCM Regalado Avenue - 8AM taken during traffic. | Valence: -2, Interest: -3, PLA:",
+        "label": "FCM Regalado Avenue - 8AM taken during traffic. | Valence: -2, Interest: -3, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -240,7 +240,7 @@
     },
      {
         "id": "FisherMall",
-        "label": "Fisher Mall - 11AM, lots of noise from traffic and people | Valence: -4, Interest: -5, PLA:",
+        "label": "Fisher Mall - 11AM, lots of noise from traffic and people | Valence: -4, Interest: -5, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -252,7 +252,7 @@
     },
      {
         "id": "ForumRobinson",
-        "label": "Forum Robinson - 10AM, lots of noise from traffic and people | Valence: -3, Interest: -5, PLA:",
+        "label": "Forum Robinson - 10AM, lots of noise from traffic and people | Valence: -3, Interest: -5, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -264,7 +264,7 @@
     },
      {
         "id": "GuadalupeStation",
-        "label": "Guadalupe Station - 9AM, noisy and traffic can be heard | Valence: -4, Interest: -5, PLA:",
+        "label": "Guadalupe Station - 9AM, noisy and traffic can be heard | Valence: -4, Interest: -5, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -276,7 +276,7 @@
     },
      {
         "id": "Intramuros",
-        "label": "Intramuros - Around noontime, conversations from people around may be heard | Valence: 3, Interest: 3, PLA:",
+        "label": "Intramuros - Around noontime, conversations from people around may be heard | Valence: 3, Interest: 3, PLA: None at all",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -288,7 +288,7 @@
     },
      {
         "id": "MakatiFireStation",
-        "label": "Makati Fire Station - Past 5 PM, but the area is relatively noisy with sounds of people around.| Valence: -2, Interest: -2, PLA:",
+        "label": "Makati Fire Station - Past 5 PM, but the area is relatively noisy with sounds of people around.| Valence: -2, Interest: -2, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -300,7 +300,7 @@
     },
      {
         "id": "MarikinaRiversBank",
-        "label": "Marikina River Banks - 10:37AM | Valence: 1, Interest: 0, PLA:",
+        "label": "Marikina River Banks - 10:37AM | Valence: 1, Interest: 0, PLA: Slight/Moderate",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -312,7 +312,7 @@
     },
      {
         "id": "MedicalTowerMakati",
-        "label": "Medical Tower Makati - 9:21AM | Valence: 1, Interest: 0, PLA:",
+        "label": "Medical Tower Makati - 9:21AM | Valence: 1, Interest: 0, PLA: Slight/Moderate",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -324,7 +324,7 @@
     },
      {
         "id": "NationalMuseum",
-        "label": "National Museum - Around 12:30PM, quiet with sounds from conversations around the area | Valence: 0, Interest: -1, PLA:",
+        "label": "National Museum - Around 12:30PM, quiet with sounds from conversations around the area | Valence: 0, Interest: -1, PLA: Slight/Moderate",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -336,7 +336,7 @@
     },
      {
         "id": "NatividadLopezTIP",
-        "label": "Natividad Lopez Street, TIP - Around noontime, 11:38AM. Noisy. | Valence: -3, Interest: -4, PLA:",
+        "label": "Natividad Lopez Street, TIP - Around noontime, 11:38AM. Noisy. | Valence: -3, Interest: -4, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -348,7 +348,7 @@
     },
      {
         "id": "RizalPark",
-        "label": "Rizal Park - 11:59AM; Busy traffic. | Valence: -1, Interest: -1, PLA:",
+        "label": "Rizal Park - 11:59AM; Busy traffic. | Valence: -1, Interest: -1, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -360,7 +360,7 @@
     },
      {
         "id": "SanAgustinChurch",
-        "label": "San Agustin Church - Around noontime, conversations from people around may be heard | Valence: 3, Interest: 3, PLA:",
+        "label": "San Agustin Church - Around noontime, conversations from people around may be heard | Valence: 3, Interest: 3, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -372,7 +372,7 @@
     },
      {
         "id": "SMFairview",
-        "label": "SM Fairview - Early moring but the traffic is a bit already heavy. | Valence: -2, Interest: -3, PLA:",
+        "label": "SM Fairview - Early moring but the traffic is a bit already heavy. | Valence: -2, Interest: -3, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -384,7 +384,7 @@
     },
      {
         "id": "SMManila",
-        "label": "SM Manila - 11:44AM; Busy traffic with vehicles and people around. | Valence: -2, Interest: -2, PLA:",
+        "label": "SM Manila - 11:44AM; Busy traffic with vehicles and people around. | Valence: -2, Interest: -2, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -396,7 +396,7 @@
     },
      {
         "id": "SMMegamallConcentrix",
-        "label": "SM Megamall - 9:21AM | Valence: -3, Interest: '3, PLA:",
+        "label": "SM Megamall - 9:21AM | Valence: -3, Interest: '3, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -407,20 +407,8 @@
         "author": ""
     },
      {
-        "id": "StoNinoChurch",
-        "label": "Intramuros - Around noontime, conversations from people around may be heard | Valence: 3, Interest: 3, PLA:",
-        "url": "",
-        "vol": 1,
-        "db": 0.2,
-        "x": 14.58646,
-        "y": 120.9777,
-        "type": "general",
-        "time": "day",
-        "author": ""
-    },
-     {
         "id": "TimogAveGMA",
-        "label": "Timog Ave., GMA - 10:58AM; Busy traffic. | Valence: -1, Interest: -1, PLA:",
+        "label": "Timog Ave., GMA - 10:58AM; Busy traffic. | Valence: -1, Interest: -1, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -432,7 +420,7 @@
     },
      {
         "id": "TimogAveStatue",
-        "label": "Timog Ave Statue - 11:05AM; Noise may be heard from the vehicles around the statue. | Valence: 1, Interest: 0, PLA:",
+        "label": "Timog Ave Statue - 11:05AM; Noise may be heard from the vehicles around the statue. | Valence: 1, Interest: 0, PLA: Slight/Moderate",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -444,7 +432,7 @@
     },
      {
         "id": "TrasierraMakati",
-        "label": "Trasierra Street, Makati - Quiet Library | Valence: 1, Interest: 2, PLA:",
+        "label": "Trasierra Street, Makati - Quiet Library | Valence: 1, Interest: 2, PLA: None at all",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -456,7 +444,7 @@
     },
      {
         "id": "UPAcadOval",
-        "label": "UP Acad Oval - Early quiet morning around 7AM. | Valence: 3, Interest: 3, PLA:",
+        "label": "UP Acad Oval - Early quiet morning around 7AM. | Valence: 3, Interest: 3, PLA: None at all",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -468,7 +456,7 @@
     },
      {
         "id": "UPTownCenter",
-        "label": "UP Town Center - 5:21PM, busy traffic| Valence: -4, Interest: -3, PLA:",
+        "label": "UP Town Center - 5:21PM, busy traffic| Valence: -4, Interest: -3, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
@@ -480,7 +468,7 @@
     },
      {
         "id": "VictoriaStation",
-        "label": "Victoria Station - 8:50AM, busy traffic and noise can be heard | Valence: -3, Interest: -3, PLA:",
+        "label": "Victoria Station - 8:50AM, busy traffic and noise can be heard | Valence: -3, Interest: -3, PLA: High",
         "url": "",
         "vol": 1,
         "db": 0.2,
